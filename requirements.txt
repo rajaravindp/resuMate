@@ -1,11 +1,5 @@
-numpy
-pandas
-streamlit
-streamlit_option_menu
-streamlit_extras
 PyPDF2
+faiss-cpu
 langchain
 openai
 tiktoken
-faiss-cpu
-selenium
